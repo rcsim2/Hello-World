@@ -16,6 +16,7 @@
 		D13CD81A23EE1175008875CB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D13CD81923EE1175008875CB /* main.m */; };
 		D13CD82523EE1175008875CB /* Hello_WorldTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D13CD82423EE1175008875CB /* Hello_WorldTests.m */; };
 		D13CD83023EE1175008875CB /* Hello_WorldUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D13CD82F23EE1175008875CB /* Hello_WorldUITests.m */; };
+		D1446C352406772B003820B5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D1446C342406772B003820B5 /* README.md */; };
 		D169285F23F0BC9D0098EA13 /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D169285E23F0BC9D0098EA13 /* AboutViewController.m */; };
 /* End PBXBuildFile section */
 
@@ -57,6 +58,7 @@
 		D13CD82B23EE1175008875CB /* Hello WorldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hello WorldUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D13CD82F23EE1175008875CB /* Hello_WorldUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Hello_WorldUITests.m; sourceTree = "<group>"; };
 		D13CD83123EE1175008875CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D1446C342406772B003820B5 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		D169285B23F0BC100098EA13 /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutViewController.h; sourceTree = "<group>"; };
 		D169285E23F0BC9D0098EA13 /* AboutViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AboutViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -93,6 +95,7 @@
 				D13CD82323EE1175008875CB /* Hello WorldTests */,
 				D13CD82E23EE1175008875CB /* Hello WorldUITests */,
 				D13CD80523EE116E008875CB /* Products */,
+				D1446C342406772B003820B5 /* README.md */,
 				D169285A23F0BBD00098EA13 /* New Group */,
 			);
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D1446C352406772B003820B5 /* README.md in Resources */,
 				D13CD81423EE1175008875CB /* Assets.xcassets in Resources */,
 				D13CD81723EE1175008875CB /* Main.storyboard in Resources */,
 			);
